@@ -44,17 +44,24 @@
 	"socialButtons": [
 		{
 			"id": "github",
-			"type": "github",
-			"value": "https://github.com/ysbfsy",
+			"type": "bilibili",
+			"value": "https://space.bilibili.com/274693831?spm_id_from=333.1007.0.0",
 			"label": "Github",
-			"order": 4
+			"order": 1
+		},
+		{
+			"id": "button-1782472163970",
+			"type": "qq",
+			"value": "2056477131",
+			"label": "",
+			"order": 2
 		},
 		{
 			"id": "email",
 			"type": "email",
 			"value": "2056477131@qq.com",
 			"label": "",
-			"order": 2
+			"order": 3
 		}
 	],
 	"clockShowSeconds": false,

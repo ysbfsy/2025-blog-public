@@ -262,5 +262,15 @@
 			"3D"
 		],
 		"stars": 3
+	},
+	{
+		"name": "XFX网站",
+		"logo": "blob:https://2025-blog-public-lac-one.vercel.app/9870d298-b3ff-473e-80f9-5b726652962f",
+		"url": "https://xfx.plus/keys",
+		"description": "查看剩余的token",
+		"tags": [
+			"AI"
+		],
+		"stars": 3
 	}
 ]

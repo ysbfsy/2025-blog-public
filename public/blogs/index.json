@@ -1,5 +1,17 @@
 [
   {
+    "slug": "obsidian-intro",
+    "title": "Obsidian初识",
+    "tags": [
+      "markdown"
+    ],
+    "date": "2026-06-27T16:57",
+    "summary": "记录了我的第一次笔记",
+    "cover": "/blogs/obsidian-intro/e5c25ffd02eecb4f.png",
+    "hidden": false,
+    "category": ""
+  },
+  {
     "slug": "dev-summary",
     "title": "开发总结",
     "tags": [

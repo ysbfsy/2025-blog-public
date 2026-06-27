@@ -267,10 +267,10 @@
 		"name": "XFX网站",
 		"logo": "/images/share/928161c5ab1204e9.png",
 		"url": "https://xfx.plus/keys",
-		"description": "查看剩余的token",
+		"description": "AI中转站，可以用来购买额度，调用API，当然也可以查看剩余的token，国外的AI与Agent离不开它",
 		"tags": [
 			"AI"
 		],
-		"stars": 3
+		"stars": 4
 	}
 ]

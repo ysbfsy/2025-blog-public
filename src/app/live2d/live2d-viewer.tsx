@@ -45,7 +45,7 @@ export default function Live2DViewer() {
 							<span className='block bg-gradient-to-r from-cyan-500 via-sky-500 to-lime-400 bg-clip-text text-transparent'>更像舞台展示的橱窗</span>
 						</h1>
 						<p className='mx-auto max-w-xl text-base leading-8 text-slate-500 lg:mx-0'>
-							这一页现在改成了图片驱动的伪 Live2D 展示页。保留轻盈的浅色氛围，用呼吸、漂浮、柔光和鼠标跟随，让角色更有存在感。
+							这一页现在改成了图片驱动的伪 Live2D 展示页保留轻盈的浅色氛围，用呼吸、漂浮、柔光和鼠标跟随，让角色更有存在感。
 						</p>
 					</div>
 					<div className='flex flex-wrap justify-center gap-3 lg:justify-start'>
